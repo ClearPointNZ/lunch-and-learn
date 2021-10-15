@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=xxxxxx;AccountKey=xxxxxxx==;BlobEndpoint=https://xxxxxxxx.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "xxxxxx",
+    "ApiSettings:smsKey": "xxxxx",
+    "ApiSettings:smSecret": "xxxxx",
+    "busConnectionString": "Endpoint=sb://xxxxxxx;SharedAccessKeyName=xxxx;SharedAccessKey=xxxxxx=;"
+  }
+}
